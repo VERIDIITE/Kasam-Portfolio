@@ -1,7 +1,5 @@
 # 💼 VERIDIITE Portfolio – React + Vite
 
-Welcome to my minimalist portfolio built using **React.js** and **Vite**. This is a clean, fast, and responsive front-end project that showcases my work, personal brand, and contact information.
-
 > 🔗 **Live Website:** [https://veridiite.github.io/kasam-portfolio/](https://veridiite.github.io/kasam-portfolio/)
 
 ---
@@ -19,7 +17,7 @@ Welcome to my minimalist portfolio built using **React.js** and **Vite**. This i
 - **React.js** – Front-end UI library
 - **Vite** – Lightning-fast build tool with Hot Module Replacement
 - **JavaScript (ES6+)**
-- **CSS / Tailwind CSS** – (if used)
+- **CSS / Tailwind CSS**
 - **ESLint** – For linting and code quality
 - **GitHub Pages** – For deployment
 
