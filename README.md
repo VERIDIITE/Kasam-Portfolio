@@ -8,7 +8,9 @@ Welcome to my minimalist portfolio built using **React.js** and **Vite**. This i
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://veridiite.github.io/kasam-portfolio/screenshot.png) <!-- Optional: Add your own image if available -->
+![Portfolio Screenshot](p1.png) 
+
+![Portfolio Screenshot](p2.png) <!-- Optional: Add your own image if available -->
 
 ---
 
