@@ -1,4 +1,4 @@
-# 💼 VERIDIITE Portfolio – React + Vite
+# 💼 Kasam Ali Portfolio 🚀 – React + Vite
 
 > 🔗 **Live Website:** [https://veridiite.github.io/kasam-portfolio/](https://veridiite.github.io/kasam-portfolio/)
 
